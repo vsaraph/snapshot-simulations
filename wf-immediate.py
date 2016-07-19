@@ -1,7 +1,6 @@
 # Simulation of immediate snapshot from atomic snapshots
 # Vikram Saraph
 
-import numpy as np
 from random import choice
 from copy import copy
 from sys import argv
